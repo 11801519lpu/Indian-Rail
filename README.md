@@ -1,2 +1,2 @@
 # Indian-Rail
-Indian Rails Operating Systems project
+Indian Rail Operating Systems project
